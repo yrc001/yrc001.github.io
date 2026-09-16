@@ -59,4 +59,4 @@ Service and leadership
    * Student Representative, AAG Transportation Specialty Group
    * Conference Assistant, 2026 AAG Annual Meeting, San Francisco
 * Journal Reviewer
-   * Transport Reviews | Applied Spatial Analysis and Policy | Travel Behavior and Society | Computational Urban Science | WSTLUR conference
+   * Transport Reviews, Applied Spatial Analysis and Policy, Travel Behavior and Society, Computational Urban Science, WSTLUR conference
