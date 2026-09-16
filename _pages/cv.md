@@ -8,7 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+---
 
+### Quick Navigation
+[Areas of Expertise](#areas-of-expertise) | [Education](#education) | [Publications](#publications) | [Conference Presentations](#conference-presentations) | [Teaching](#teaching) | [Awards & Honors](#awards-and-honors) | [Service & Leadership](#service-and-leadership)
+
+---
 Ph.D. Candidate in Geography at The Ohio State University, specializing in spatial data science and geospatial modeling (Advised by [Dr. Huyen Le](https://geography.osu.edu/people/le.253)). Research focuses on urban environmental exposures (heat, noise, air pollution, and green space) and their implications for travel behavior and well-being. Passioned about transforming complex spatial and mobility data into actionable insights to support data-driven decision-making. Learn more about our lab's work at the [Health Mobility Group](https://u.osu.edu/huyenle/).
 
 **Areas of Expertise:**
