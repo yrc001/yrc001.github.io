@@ -43,21 +43,20 @@ Publications
 ## Working Papers & Manuscripts Under Review
 
 **Manuscripts Under Review**
-* **Ruochen Yin**, Sandy Wong, Allan Just, & Huyen Le. Clusters of High Environmental Risks and Geographic Disparities in Climate Change Vulnerabilities. *(Under Review)*
-
+* Clusters of High Environmental Risks and Geographic Disparities in Climate Change Vulnerabilities. *(Under Review)*
 **Working Papers**
-* **Ruochen Yin**, Harvey Miller, & Huyen Le. How does street space influence car crash building?
-* **Ruochen Yin**, Sandy Wong, & Huyen Le. Evaluation of Green Space Accessibility and Geographic Disparities.
-* **Ruochen Yin**, Age Poom, & Huyen Le. Dynamic Multiple Exposure: A Systematic Review.
+* Work with Harvey Miller, Karyn Kerdolff& Huyen Le. How does street space influence car crash building?
+* Work with Sandy Wong & Huyen Le. Evaluation of Green Space Accessibility and Geographic Disparities.
+* Work with Age Poom & Huyen Le. Dynamic Multiple Exposure: A Systematic Review.
 
 Conference Presentations
 ======
-* **A Spatiotemporal Analysis of Intersecting Social and Environmental Vulnerabilities in Columbus, Ohio.** The American Association of Geographers (AAG) Annual Meeting, San Francisco, CA. *March 2026.*
-* **Heat and Noise Exposure during Active Travel: A Systematic Review.** The American Association of Geographers (AAG) Annual Meeting, Detroit, MI. *March 2025.*
-* **Heat and Noise Exposure during Active Travel: A Systematic Review.** Transportation Research Board (TRB) 104th Annual Meeting, Washington, D.C. *(Poster Session)*. *January 2025.*
-* **Heat and Noise Exposure during Active Travel: A Systematic Review.** The East Lakes Division of the American Association of Geographers (ELAAG). *November 2023.*
-* **Infectious Risk Prevention and Control Methods of Small Open Space in Post-Epidemic Era.** The 57th ISOCARP World Planning Congress. *(Virtual)*. *November 2021.*
-* **Risk prevention and control methods of small open space in the post-epidemic era: Simulation analysis of respiratory infectious disease transmission based on CFD (in Chinese).** Conference of Chinese Urban Geography. *(Virtual)*. *September 2021.*
+* A Spatiotemporal Analysis of Intersecting Social and Environmental Vulnerabilities in Columbus, Ohio. The American Association of Geographers (AAG) Annual Meeting, San Francisco, CA. *March 2026.*
+* Heat and Noise Exposure during Active Travel: A Systematic Review. The American Association of Geographers (AAG) Annual Meeting, Detroit, MI. *March 2025.*
+* Heat and Noise Exposure during Active Travel: A Systematic Review. Transportation Research Board (TRB) 104th Annual Meeting, Washington, D.C. *(Poster Session)*. *January 2025.*
+* Heat and Noise Exposure during Active Travel: A Systematic Review. The East Lakes Division of the American Association of Geographers (ELAAG). *November 2023.*
+* Infectious Risk Prevention and Control Methods of Small Open Space in Post-Epidemic Era. The 57th ISOCARP World Planning Congress. *(Virtual)*. *November 2021.*
+* Risk prevention and control methods of small open space in the post-epidemic era: Simulation analysis of respiratory infectious disease transmission based on CFD (in Chinese).** Conference of Chinese Urban Geography. *(Virtual)*. *September 2021.*
   
 Teaching
 ======
