@@ -11,35 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D in Geography, The Ohio State University, Dec. 2026 (expected)
+* M.S. in Urban and Rural Planning, Tongji University, 2022
+* B.S. in Urban and Rural Planning, Shandong Jianzhu University, 2019
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * R, Python
+* GIS and Analysis Skills
+  * ArcGIS, QGIS, Google Earth Engine; Stata, SPSS, SQL
+* Other Tools
+  * SatScan, Qualtrics, AutoCAD, Rhino Grasshopper, SketchUp, Photoshop, Illustrator
 
 Publications
 ======
@@ -61,4 +44,11 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Internal / University Service
+   * 2024 – 2025: Treasurer, Geography Graduate Organization at the Ohio State University
+   * 2014-2017: Vice President, Qilu Ancient Architecture Culture Research Center (student club) in Shandong Jianzhu University
+* External / Professional Service
+   * Student Representative, AAG Transportation Specialty Group
+   * Conference Assistant, 2026 AAG Annual Meeting, San Francisco
+* Journal Reviewer
+   * Transport Reviews | Applied Spatial Analysis and Policy | Travel Behavior and Society | Computational Urban Science | WSTLUR conference
