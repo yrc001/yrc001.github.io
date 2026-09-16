@@ -2,7 +2,6 @@
 title: "The impact of green space environments on college students’ mental health at multiple spatial scales in Chinese universities: An empirical study based on a multilevel mediation model"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-green-space-mental-health
 date: 2026-01-01
 venue: 'Applied Geography'
 paperurl: 'https://doi.org/10.1016/j.apgeog.2026.103903'
