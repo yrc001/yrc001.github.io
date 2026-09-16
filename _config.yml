@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "头像.png"
   name             : "Ruochen Yin"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Geography at The Ohio State University, specializing in spatial data science and geospatial modeling. Research focuses on urban environmental exposures and their impacts on travel behavior and well-being."
