@@ -2,7 +2,6 @@
 title: "Exploring the association between openness scale of campus street spaces, street greenery, campus walkability and physical activity of college students"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-campus-street-spaces-walkability
 date: 2024-01-01
 venue: 'Journal of Transport & Health'
 paperurl: 'https://doi.org/10.1016/j.jth.2024.101897'
