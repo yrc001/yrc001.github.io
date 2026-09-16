@@ -44,6 +44,7 @@ Publications
 
 **Manuscripts Under Review**
 * Clusters of High Environmental Risks and Geographic Disparities in Climate Change Vulnerabilities. *(Under Review)*
+
 **Working Papers**
 * Work with Harvey Miller, Karyn Kerdolff& Huyen Le. How does street space influence car crash building?
 * Work with Sandy Wong & Huyen Le. Evaluation of Green Space Accessibility and Geographic Disparities.
