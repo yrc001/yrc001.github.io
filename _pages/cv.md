@@ -39,7 +39,17 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+## Working Papers & Manuscripts Under Review
+
+**Manuscripts Under Review**
+* **Ruochen Yin**, Sandy Wong, Allan Just, & Huyen Le. Clusters of High Environmental Risks and Geographic Disparities in Climate Change Vulnerabilities. *(Under Review)*
+
+**Working Papers**
+* **Ruochen Yin**, Harvey Miller, & Huyen Le. How does street space influence car crash building?
+* **Ruochen Yin**, Sandy Wong, & Huyen Le. Evaluation of Green Space Accessibility and Geographic Disparities.
+* **Ruochen Yin**, Age Poom, & Huyen Le. Dynamic Multiple Exposure: A Systematic Review.
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
