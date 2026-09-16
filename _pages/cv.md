@@ -60,9 +60,13 @@ Conference Presentations
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* **Lab Instructor**, *GEOG 4103: Introductory Spatial Data Analysis* (Autumn 2026, Autumn 2025, Spring & Autumn 2023)
+  Designed lab assignments and led lab sessions for ~50 senior undergraduate students (two sections) using R for spatial statistical analysis.
+* **Lab Instructor**, *GEOG 1900: Extreme Weather and Climate* (Spring 2024)
+  Led physical laboratory sessions for ~45 first-year undergraduate students (two sections) covering fundamental physical geography and climate phenomena.
+* **Grader**, *GEOG 5300: Geography of Transportation* (Autumn 2022)
+  Graded course assignments and facilitated online class discussions for ~80 undergraduate and graduate students focusing on transportation theories and spatial mobility.
   
 Service and leadership
 ======
