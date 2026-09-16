@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Ph.D. Candidate in Geography at The Ohio State University, specializing in spatial data science and geospatial modeling. Research focuses on urban environmental exposures and their impacts on travel behavior and well-being.
+
 Education
 ======
 * Ph.D in Geography, The Ohio State University, Dec. 2026 (expected)
