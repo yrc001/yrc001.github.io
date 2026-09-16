@@ -40,8 +40,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Working Papers & Manuscripts Under Review
-
 **Manuscripts Under Review**
 * Clusters of High Environmental Risks and Geographic Disparities in Climate Change Vulnerabilities. *(Under Review)*
 
@@ -68,6 +66,20 @@ Teaching
   Led physical laboratory sessions for ~45 first-year undergraduate students (two sections) covering fundamental physical geography and climate phenomena.
 * **Grader**, *GEOG 5300: Geography of Transportation* (Autumn 2022)
   Graded course assignments and facilitated online class discussions for ~80 undergraduate and graduate students focusing on transportation theories and spatial mobility.
+
+Awards and Honors
+======
+
+* Geography Graduate Award, Department of Geography, The Ohio State University ($1,000) *(2025)*
+* ASP Summer Colloquium Participant, NCAR & NSF (*Integrating atmospheric and social approaches to improve urban air quality*), Boulder, CO *(2024)*
+* Rayner Scholarship for Fieldwork, Department of Geography, The Ohio State University ($3,500) *(2023)*
+* Outstanding Graduate, Tongji University *(2022)*
+* Social Activities Scholarship for Graduate Students, Tongji University (¥5,000) *(2021)*
+* Big Data Application Award, Shanghai Urban Design Challenge, Shanghai Urban Planning and Natural Resources Bureau *(2020)*
+* Outstanding Graduate of Shandong Province, Department of Education of Shandong Province *(2019)*
+* University Second-Class Scholarship, Shandong Jianzhu University *(2016, 2017)*
+* University First-Class Scholarship, Shandong Jianzhu University *(2015)*
+* National Scholarship, Ministry of Education of the People's Republic of China (¥8,000) *(2015)*
   
 Service and leadership
 ======
