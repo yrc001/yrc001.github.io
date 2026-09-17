@@ -23,6 +23,7 @@ Ph.D. Candidate in Geography at The Ohio State University, specializing in spati
 * Heat and Noise Exposure
 * Exposure Justice
 
+<iframe src="https://uploads.knightlab.com/storymapjs/aea60e71aa64f1c6ebca12b4f57ba7ac/ruochen-yin-research-map/index.html" frameborder="0" width="100%" height="600"></iframe>
 
 Education
 ======
