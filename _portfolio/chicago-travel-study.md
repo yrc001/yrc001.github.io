@@ -2,6 +2,8 @@
 title: "Chicago Travel Study"
 excerpt: "A study on transit survey and travel well-being in Chicago, working with Dr. Andre Carrel and Dr. Huyen Le."
 collection: portfolio
+header:
+  teaser: /images/Project/Chicagotravelstudy.png
 ---
 
 The **Chicago Travel Study** is a research project conducted by our research team at The Ohio State University, in collaboration with **Dr. Andre Carrel** and **Dr. Huyen Le**. 
