@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About"
+title: "Ruochen Yin"
 permalink: /
 author_profile: true
 redirect_from:
