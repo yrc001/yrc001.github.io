@@ -12,3 +12,5 @@ This research focuses on conducting transit surveys in Chicago to examine public
 We are currently recruiting participants! If you live, work, or travel in the Chicago area, we warmly invite you to join our study and share your transit experiences.
 
 For more details and to participate, please visit our project website: [Chicago Travel Study](https://u.osu.edu/chicagotravelstudy/)
+
+![Study website](/images/Project/Chicagotravelstudy.png)
